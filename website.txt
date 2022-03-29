@@ -33,7 +33,6 @@ whatsapp.net
 .ytimg.com
 .gvt2.com
 .wordpress.com
-.discord.gg
 wordpress.com
 .gstatic.com
 .kaspersky-labs.com
